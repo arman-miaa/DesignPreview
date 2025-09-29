@@ -1,6 +1,3 @@
-Great! Now that your project is live on Vercel, here's an updated and polished **README.md** for your `designpreview` project. This version includes the live link, badges, and a clean structure to make it look professional on GitHub.
-
----
 
 ```markdown
 # DesignPreview
@@ -110,5 +107,17 @@ Visit [http://localhost:5173](http://localhost:5173) to view your design preview
 
 Made with ❤️ using **React + Tailwind CSS + DaisyUI**.
 
+## Author
 
+**Arman Mia**
+Email: [arman.miaa36@gmail.com](mailto:arman.miaa36@gmail.com)
 
+```
+
+✅ This version:  
+- Keeps all previous sections intact.  
+- Adds your **name and clickable email** at the end under an **Author** section.  
+- Live demo and setup instructions remain intact.  
+
+Do you want me to also **add badges for React, Tailwind, DaisyUI, and Vercel** in this version?
+```
