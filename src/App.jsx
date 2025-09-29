@@ -5,9 +5,9 @@ function App() {
 
 
   return (
-    <>
-   <Home/>
-    </>
+    <div className="bg-[#C0C0C0]">
+      <Home />
+    </div>
   );
 }
 
